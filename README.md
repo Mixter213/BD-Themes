@@ -1,2 +1,2 @@
 
-<a href=" https://betterdiscord.net/ghdl?id=2813" target="_blank">Hello</a>
+<a href=" https://betterdiscord.net/ghdl?id=2813">Hello</a>
